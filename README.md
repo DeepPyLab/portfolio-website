@@ -81,7 +81,6 @@ This portfolio site includes:
 
 ### Project Structure
 
-    ```bash
     portfolio-website/
     ├── frontend/          # React frontend application
     └── backend/           # Node.js/Express backend server
